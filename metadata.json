@@ -1,0 +1,7 @@
+{
+  "name": "StitchAI Fashion Studio",
+  "description": "A high-end AI-powered fashion photography studio that generates professional editorial shots from simple descriptions.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
